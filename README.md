@@ -1,4 +1,4 @@
-# Video-Uploader-CodeGenZing
+# Video-Uploader
 
 This project is a video uploader for YouTube. It uses Google's OAuth 2.0 for authentication and the YouTube Data API v3 to upload videos.
 
